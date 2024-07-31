@@ -1,0 +1,1 @@
+Used GF65nm Technology and Cadence Design Tools to design, layout and characterize 256 bit Even/Odd Up-Down Counter. This project included designing of schematics INV, NAND2, NOR2, XOR2, AOI22, OAI21, OAI211, MUX 2:1 and D-Flip Flop.
